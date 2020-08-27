@@ -12,6 +12,8 @@
 ; ---------------------------------------------
 
 ; Abbreviations
+::mtfx::MillTechFX
+::shm::sharsant@milltechfx.com
 ::tc::TeamCity
 ::yt::YouTrack
 
