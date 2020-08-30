@@ -12,7 +12,7 @@
 ; ---------------------------------------------
 
 ; Abbreviations
-::mtfx::MillTechFX
+::\mtfx::MillTechFX
 ::shm::sharsant@milltechfx.com
 ::tc::TeamCity
 ::yt::YouTrack
@@ -34,6 +34,7 @@
 ::Ive::I've
 ::shes::she's
 ::shouldnt::shouldn't
+::thats::that's
 ::theres::there's
 ::theyre::they're
 ::wont:: won't
