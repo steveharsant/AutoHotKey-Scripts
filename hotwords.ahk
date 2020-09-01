@@ -12,6 +12,7 @@
 ; ---------------------------------------------
 
 ; Abbreviations
+::DD::DataDog
 ::\mtfx::MillTechFX
 ::shm::sharsant@milltechfx.com
 ::tc::TeamCity
@@ -24,6 +25,7 @@
 ; Grammar
 ::cant::can't
 ::couldnt::couldn't
+::datadog::DataDog
 ::didnt::didn't
 ::doesnt::doesn't
 ::dont::don't
