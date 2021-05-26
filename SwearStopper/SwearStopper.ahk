@@ -3,37 +3,37 @@
 ::arse::butt
 ::arsehole::foxhole
 ::ass::butt
-::balls::basketballs
 ::bastard::basket
 ::bitch::birch
+::bitches::benches
 ::bukkake::Why-would-you-type-this
 ::bullshit::bullspit
 ::clunge::plunge
-::cock::rooster
+:o:cock::rooster
 ::cocksucker::rooster siphon
 ::crap::poop
-::cunt::runt
+:o:cunt::runt
 ::damn::darn
-::dick::richard
-::dickhead::richardhead
-::dildo::hysteria reliever
-::fag::fog
-::faggot::figlet
-::fuck::fork
+:o:dick::richard
+:o:dickhead::richardhead
+:o:dildo::hysteria reliever
+::fag::notCool
+::faggot::seriouslyNotCool
+:o:fuck::fork
 ::goddam::gosh darn
 ::ho::ho ho ho
 ::jesus christ::cheeses diced
 ::jizz::jazz
 ::minge::fringe
-::motherfucker::mothertrucker
-::munter::punter
+:o:motherfucker::mothertrucker
+:o:munter::punter
 ::pissed::passed
-::pussy::kitty
-::shit::shirt
-::skank::skunk
-::slag::slug
-::slapper::slipper
-::slut::scarlet
+:o:pussy::kitty
+:o:shit::shirt
+:o:skank::skunk
+:o:slag::slug
+:o:slapper::slipper
+:o:slut::scarlet
 ::tits::breasts
-::wanker::Willy-Wonker
-::whore::sex-worker
+:o:wanker::Willy-Wonker
+:o:whore::sex-worker
