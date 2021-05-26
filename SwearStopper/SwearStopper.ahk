@@ -7,7 +7,7 @@
 ::bitch::birch
 ::bitches::benches
 ::bukkake::Why-would-you-type-this
-::bullshit::bullspit
+::bullshit::bullshirt
 ::clunge::plunge
 :o:cock::rooster
 ::cocksucker::rooster siphon
