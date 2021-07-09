@@ -4792,7 +4792,6 @@
 ::htan::than
 ::htme::them
 ::hz::Hz
-::i::I
 ::imaginig::imagining
 ::ipmedance::impedance
 ::ive::I've
