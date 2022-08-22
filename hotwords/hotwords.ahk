@@ -12,11 +12,9 @@
 ; ---------------------------------------------
 
 ; Abbreviations
-::DD::DataDog
+::\dd::DataDog
 ::\mtfx::MillTechFX
 :o:\shm::sharsant@milltechfx.com
-::tc::TeamCity
-::yt::YouTrack
 
 ; Spellcheck
 ::compatability::compatibility
