@@ -21,7 +21,6 @@
 ::faggot::seriouslyNotCool
 :o:fuck::fork
 ::goddam::gosh darn
-::ho::ho ho ho
 ::jesus christ::cheeses diced
 ::jizz::jazz
 ::minge::fringe

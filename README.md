@@ -1,7 +1,5 @@
 # AutoHotKey-Scripts
 
-## Hotwords.ahk
+## Public Archive
 
-A script to replace abbreviations and bad spelling inside applications that do not support spellcheck
-
-Either run the script directly, or compile into standalone exe with AutoHotKey.
+[Check out WAX](https://github.com/steveharsant/wax) for a far supior alternative. Its implementation is much cleaner 😉
