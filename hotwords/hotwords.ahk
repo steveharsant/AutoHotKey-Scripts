@@ -14,7 +14,6 @@
 ; Abbreviations
 ::\dd::DataDog
 ::\mtfx::MillTechFX
-:o:\shm::sharsant@milltechfx.com
 
 ; Spellcheck
 ::compatability::compatibility

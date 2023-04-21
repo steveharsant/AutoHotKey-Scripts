@@ -21,9 +21,6 @@ IfExist, %icon%
 
 ::\dd::DataDog
 ::\mtfx::MillTechFX
-:o:\shm::sharsant@milltechfx.com
-:o:\shg::stevenharsant@gmail.com
-:o:\ip::192.168.5.
 
 ; ## Grammar ##
 
